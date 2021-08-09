@@ -41,5 +41,5 @@ Sinon si tu veux me parler, tu venir sur Discord { Bloak#0252 }
   <img src="https://komarev.com/ghpvc/?username=Bloak-ui&color=blue">
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adx180&show_icons=true&theme=dark&count_private=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adx180&layout=compact&theme=dark&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bloak-ui&show_icons=true&theme=dark&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloak-ui&layout=compact&theme=dark&count_private=true"/>
