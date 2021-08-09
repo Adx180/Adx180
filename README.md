@@ -7,7 +7,7 @@ Sinon si tu veux me parler, tu venir sur Discord { Bloak#0252 }
 ```
 
 <p align="center">
-  <code><img src="https://media.discordapp.net/attachments/853195110547193886/874343746278412298/unknown.png"></code>&nbsp;
+  <code><img src="https://discord.c99.nl/widget/theme-3/834490426823016468.png"></code>&nbsp;
 </p><br/><br/><br/>
 
 <h1 align="center">LANGUAGE</h1>
@@ -34,11 +34,12 @@ Sinon si tu veux me parler, tu venir sur Discord { Bloak#0252 }
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>&nbsp;
 </p>
 
+<h1 align="center">MES STATS</h1>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Bloak-ui?style=social">
+  <img src="https://img.shields.io/github/stars/Bloak-ui?style=social">
+  <img src="https://komarev.com/ghpvc/?username=Bloak-ui&color=blue">
+</p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Adx180&show_icons=true&theme=dark&count_private=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adx180&layout=compact&theme=dark&count_private=true"/>
-
-<br /><br /><br />
-<p align="center">
-    <br>Nombre de visite sur mon profil: <br>
-    <img src="https://profile-counter.glitch.me/Bloak-ui/count.svg" />
-</p>
